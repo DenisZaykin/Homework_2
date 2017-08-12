@@ -1,0 +1,6 @@
+[INFO ] 2017-08-13 01:05:16.172 [main] ProjectTest - Team Lead: Jane Doe, $1000.23
+[WARN ] 2017-08-13 02:01:59.267 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: notInJobPositionEnum, FEMALE respectively
+[WARN ] 2017-08-13 02:01:59.267 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, notInGenderEnum respectively
+[WARN ] 2017-08-13 02:01:59.267 [main] EmployeeValidator - Wrong number of parameters. Expected: 6 for TEAMLEAD, 5 for CODEMONKEY; got: 4
+[INFO ] 2017-08-13 02:01:59.267 [main] ProjectTest - Developer: Jane Doe, $999.99
+[INFO ] 2017-08-13 02:01:59.267 [main] ProjectTest - Team Lead: Jane Doe, $1000.23

@@ -1,0 +1,7 @@
+teamlead;John;Doe;MALE;1234.23;2000000
+teamlead;Jane;Doe;FEMALE;1000.23;1000000
+codemonkey;John;Doe;MALE;888.88
+codemonkey;Jane;Doe;FEMALE;999.99
+notInJobPositionEnum;Jane;Doe;FEMALE;10
+codemonkey;John;Doe;notInGenderEnum;10
+codemonkey;w/o;salary;MALE

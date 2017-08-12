@@ -1,0 +1,67 @@
+[WARN ] 2017-07-04 17:15:26.912 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, 1234.23 respectively
+[WARN ] 2017-07-04 17:15:26.914 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, 1000.23 respectively
+[WARN ] 2017-07-04 17:15:26.929 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, 888.88 respectively
+[WARN ] 2017-07-04 17:15:26.929 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, 999.99 respectively
+[WARN ] 2017-07-04 17:36:09.328 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, 1234.23 respectively
+[WARN ] 2017-07-04 17:36:09.330 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, 1000.23 respectively
+[WARN ] 2017-07-04 17:36:09.330 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, 888.88 respectively
+[WARN ] 2017-07-04 17:36:09.331 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, 999.99 respectively
+[WARN ] 2017-07-04 17:38:11.409 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, 1234.23 respectively
+[WARN ] 2017-07-04 17:38:11.411 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, 1000.23 respectively
+[WARN ] 2017-07-04 17:38:11.411 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, 888.88 respectively
+[WARN ] 2017-07-04 17:38:11.412 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, 999.99 respectively
+[WARN ] 2017-07-04 17:39:00.517 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, John Doe respectively
+[WARN ] 2017-07-04 17:39:00.519 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, Jane Doe respectively
+[WARN ] 2017-07-04 17:39:00.519 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, John Doe respectively
+[WARN ] 2017-07-04 17:39:00.519 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, Jane Doe respectively
+[WARN ] 2017-07-04 17:40:32.330 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, M respectively
+[WARN ] 2017-07-04 17:40:32.332 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, F respectively
+[WARN ] 2017-07-04 17:40:32.333 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, M respectively
+[WARN ] 2017-07-04 17:40:32.334 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, F respectively
+[WARN ] 2017-07-04 17:41:34.031 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, MALE respectively
+[WARN ] 2017-07-04 17:41:34.034 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, FEMALE respectively
+[WARN ] 2017-07-04 17:41:34.034 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, MALE respectively
+[WARN ] 2017-07-04 17:41:34.035 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, FEMALE respectively
+[WARN ] 2017-07-04 17:44:05.511 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, MALE respectively
+[WARN ] 2017-07-04 17:44:05.513 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, FEMALE respectively
+[WARN ] 2017-07-04 17:44:05.513 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, MALE respectively
+[WARN ] 2017-07-04 17:44:05.513 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, FEMALE respectively
+[WARN ] 2017-07-04 17:45:45.479 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, MALE respectively
+[WARN ] 2017-07-04 17:45:45.483 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, FEMALE respectively
+[WARN ] 2017-07-04 17:45:45.483 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, MALE respectively
+[WARN ] 2017-07-04 17:45:45.483 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, FEMALE respectively
+[WARN ] 2017-07-04 17:47:49.202 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, MALE respectively
+[WARN ] 2017-07-04 17:47:49.204 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, FEMALE respectively
+[WARN ] 2017-07-04 17:47:49.205 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, MALE respectively
+[WARN ] 2017-07-04 17:47:49.205 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, FEMALE respectively
+[WARN ] 2017-07-04 17:48:29.257 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: teamlead, MALE respectively
+[INFO ] 2017-07-04 17:56:52.372 [main] EmployeeValidator - Developer: Jane Doe, $999.99
+[INFO ] 2017-07-04 17:56:52.374 [main] EmployeeValidator - Team Lead: Jane Doe, $1000.23
+[INFO ] 2017-07-04 17:57:56.448 [main] ProjectTest - Developer: Jane Doe, $999.99
+[INFO ] 2017-07-04 17:57:56.451 [main] ProjectTest - Team Lead: Jane Doe, $1000.23
+[INFO ] 2017-07-04 18:15:31.563 [main] ProjectTest - Developer: Jane Doe, $999.99
+[INFO ] 2017-07-04 18:15:31.565 [main] ProjectTest - Team Lead: Jane Doe, $1000.23
+[WARN ] 2017-08-12 22:51:46.029 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: notInJobPositionEnum, FEMALE respectively
+[WARN ] 2017-08-12 22:51:46.029 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, notInGenderEnum respectively
+[WARN ] 2017-08-12 22:51:46.029 [main] EmployeeValidator - Wrong number of parameters. Expected: 6 for TEAMLEAD, 5 for CODEMONKEY; got: 4
+[INFO ] 2017-08-12 22:51:46.045 [main] ProjectTest - Developer: Jane Doe, $999.99
+[INFO ] 2017-08-12 22:51:46.045 [main] ProjectTest - Team Lead: Jane Doe, $1000.23
+[WARN ] 2017-08-12 22:54:09.874 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: notInJobPositionEnum, FEMALE respectively
+[WARN ] 2017-08-12 22:54:09.874 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, notInGenderEnum respectively
+[WARN ] 2017-08-12 22:54:09.874 [main] EmployeeValidator - Wrong number of parameters. Expected: 6 for TEAMLEAD, 5 for CODEMONKEY; got: 4
+[INFO ] 2017-08-12 22:54:09.874 [main] ProjectTest - Developer: Jane Doe, $999.99
+[INFO ] 2017-08-12 22:54:09.874 [main] ProjectTest - Team Lead: Jane Doe, $1000.23
+[WARN ] 2017-08-12 22:54:22.014 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: notInJobPositionEnum, FEMALE respectively
+[WARN ] 2017-08-12 22:54:22.014 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, notInGenderEnum respectively
+[WARN ] 2017-08-12 22:54:22.014 [main] EmployeeValidator - Wrong number of parameters. Expected: 6 for TEAMLEAD, 5 for CODEMONKEY; got: 4
+[INFO ] 2017-08-12 22:54:22.014 [main] ProjectTest - Developer: Jane Doe, $999.99
+[INFO ] 2017-08-12 22:54:22.014 [main] ProjectTest - Team Lead: Jane Doe, $1000.23
+[WARN ] 2017-08-12 22:54:32.467 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: notInJobPositionEnum, FEMALE respectively
+[WARN ] 2017-08-12 22:54:32.467 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, notInGenderEnum respectively
+[WARN ] 2017-08-12 22:54:32.467 [main] EmployeeValidator - Wrong number of parameters. Expected: 6 for TEAMLEAD, 5 for CODEMONKEY; got: 4
+[INFO ] 2017-08-12 22:54:32.482 [main] ProjectTest - Developer: Jane Doe, $999.99
+[INFO ] 2017-08-12 22:54:32.482 [main] ProjectTest - Team Lead: Jane Doe, $1000.23
+[WARN ] 2017-08-13 01:05:16.157 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: notInJobPositionEnum, FEMALE respectively
+[WARN ] 2017-08-13 01:05:16.157 [main] EmployeeValidator - Wrong employee or gender type. Expected: [TEAMLEAD, CODEMONKEY], [MALE, FEMALE] got: codemonkey, notInGenderEnum respectively
+[WARN ] 2017-08-13 01:05:16.157 [main] EmployeeValidator - Wrong number of parameters. Expected: 6 for TEAMLEAD, 5 for CODEMONKEY; got: 4
+[INFO ] 2017-08-13 01:05:16.172 [main] ProjectTest - Developer: Jane Doe, $999.99
